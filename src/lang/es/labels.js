@@ -1,0 +1,55 @@
+const labels_es = {
+    about_us: "Quienes somos",
+    products:"Productos",
+    our_services:"Nuestros servicios",
+    our_professionals:"Nuestros profesionales",
+    blog:"Blog",
+    you_do_not_have_an_account:"No tienes una cuenta",
+    sign_up_here:"Registrate aquí",
+    login_with:"Iniciar sesión con",  
+    sign_up_here:"Registrate aquí",
+    sign_in:"Iniciar sesión",
+    recover_password:"Recuperar contraseña",
+    confirm_the_new_password:"Confirme la nueva contraseña",
+    email:"Correo electronico",
+    password:"Contraseña",
+    save:"Guardar",
+    password_recovery_email:"Correo de recuperación de contraseña",
+    terms_and_conditions:"Términos y condiciones",
+    accept:"Aceptar",
+    accept_the:"Acepto los",
+    full_name:"Nombre completo",
+    phone_number:"Numero de telefono",
+    residence_address:"Dirección de residencia",
+    confirm_Password:"Confirmar contraseña",
+    sign_up:"Registrarse",
+    contact_information:"Información de contacto",
+    change_password:"Cambiar contraseña",
+    validate_profile:"Validar perfil",
+    name:"Nombres",
+    identification_number:"Número de identificación",
+    address:"Direccion",
+    update:"Actualizar",
+    enter_current_password:"Introducir la contraseña",
+    new_password:"Nueva contraseña",
+    identification_document:"Documento de identidad",
+    edit_profile_picture:"Editar foto de perfíl",
+    attach_file:"Adjuntar archivo",
+    signin_with_facebook:"Iniciar sesión con facebook",
+    signin_with_google:"Iniciar sesión con google",
+    register_with_your_email:"Registrarte con su correo electrónico",
+    already_have_a_caliope_account:"¿Ya tienes una cuenta calíope?",
+    you_do_not_have_an_account:"¿No tienes una cuenta?",
+    register_with:"Registrarse con",
+    last_name:"Apellidos",
+    terms_and_conditions:"términos y condiciones",
+    did_you_forget_your_password:"Olvidaste tu contraseña",
+    recover:"Recuperar"
+
+    
+
+
+}
+export default{
+    labels_es
+}
